@@ -16,6 +16,11 @@ This repository has contributions from:
 - Alex Donkers
 - Jeroen Werbrouck
 - Madhumitha Senthilvel
+- Sven Zentgraff
+- Oliver Schulz
+- Anne Goebels
+- Ekatrina Petrova
+- Ruben Verstraeten
 
 ## Acknowledgements
 
