@@ -21,6 +21,7 @@ This repository has contributions from:
 - Anne Goebels
 - Ekatrina Petrova
 - Ruben Verstraeten
+- Pieter Pauwels
 
 ## Acknowledgements
 
