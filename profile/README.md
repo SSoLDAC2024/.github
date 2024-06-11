@@ -22,7 +22,7 @@ This repository has contributions from:
 - Ekatrina Petrova
 - Ruben Verstraeten
 - Pieter Pauwels
-- Jakob Beetz
+- Jakob Beet[z](https://github.com/jakob-beetz/LDAC2024)
 
 ## Acknowledgements
 
