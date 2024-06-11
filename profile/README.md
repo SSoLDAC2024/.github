@@ -22,6 +22,7 @@ This repository has contributions from:
 - Ekatrina Petrova
 - Ruben Verstraeten
 - Pieter Pauwels
+- Jakob Beetz
 
 ## Acknowledgements
 
