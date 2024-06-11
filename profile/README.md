@@ -16,7 +16,7 @@ Check out each repository to view the challenge details.
 
 00. Welcome | [Presentation](https://github.com/SSoLDAC2024/Lectures/blob/main/00_SSoLDAC2024_Welcome.pptm) | [Welcome package](https://github.com/SSoLDAC2024/Lectures/blob/main/Welcome_LDAC2024.pdf)
 01. Basics of Linked Building Data, Jeroen Werbrouck | [Presentation](https://github.com/SSoLDAC2024/Lectures/blob/main/01_SSoLDAC2024_Lecture_Basics-of-LBD_Jeroen-Werbrouck.pptx)
-02. LBD and Ontologies, Alex Donkers | [Presentation, ppt](https://github.com/SSoLDAC2024/Lectures/blob/main/02_SSoLDAC2024_Lecture_LBD-and-Ontologies_Alex-Donkers.pptx) | [Presentation, pdf](https://github.com/SSoLDAC2024/Lectures/blob/main/02_SSoLDAC2024_Lecture_LBD-and-Ontologies_Alex-Donkers.pdf)
+02. LBD and Ontologies, Alex Donkers | [Presentation, ppt](https://github.com/SSoLDAC2024/Lectures/blob/main/02_SSoLDAC2024_Lecture_LBD-and-Ontologies_Alex-Donkers.pptx) | [Presentation, pdf](https://github.com/SSoLDAC2024/Lectures/blob/main/02_SSoLDAC2024_Lecture_LBD-and-Ontologies_Alex-Donkers.pdf) | [Tools and handy documents](https://github.com/SSoLDAC2024/Tools-and-handy-documents)
 03. Hands-on Interaction and Querying, Pieter Pauwels | [Notebooks](https://github.com/SSoLDAC2024/handson-querying-and-interaction)
 
 **Tuesday**
@@ -31,6 +31,12 @@ Check out each repository to view the challenge details.
 08. LBD and Construction Management, Ranjith Soman | [Notebooks](https://github.com/SSoLDAC2024/LBD4ConstructionManagement)
 09. LBD and Building Maintenance, Anne Göbels | 
 10. LBD and Spatial Querying, Oliver Schulz | [Presentation](https://github.com/SSoLDAC2024/Lectures/blob/main/10_SSoLDAC2024_Lecture_LBD-and-Spatial-Querying_Oliver-Schulz/10_SSoLDAC2024_Lecture_LBD-and-Spatial-Querying.pdf) | [Graphs and Queries](https://github.com/SSoLDAC2024/Lectures/tree/main/10_SSoLDAC2024_Lecture_LBD-and-Spatial-Querying_Oliver-Schulz)
+
+## Hackathon challenges
+- [Bochum goes LBD](https://github.com/SSoLDAC2024/Bochum-goes-LBD)
+- [What the Check?!](https://github.com/SSoLDAC2024/What-the-check)
+- [Outer Space](https://github.com/SSoLDAC2024/Outer-Space)
+- [It's not my fault!](https://github.com/SSoLDAC2024/Its-not-my-fault)
 
 ## Authors
 This repository has contributions from:
